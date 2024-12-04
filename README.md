@@ -53,9 +53,10 @@ endmodule
 ![2 EX2](https://github.com/user-attachments/assets/6e9a497d-0c78-45ca-87a1-ff1677f7a719)
 
 **RTL**
-![3 EX 2](https://github.com/user-attachments/assets/d7448f14-67bd-478b-ab11-f9e94618395b)
+
 
 **Timing Diagram**
+![2exl](https://github.com/user-attachments/assets/4877d92c-23f7-4c32-af27-ea9c36d6fbe7)
 
 **Result:**
 
